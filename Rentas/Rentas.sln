@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saludo", "Saludo\Saludo.csproj", "{CDAEAA76-AC9C-4A31-B547-E8BBF91E95E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winRentas", "winRentas\winRentas.csproj", "{44B93CB6-6356-4FF4-9C70-C142072DAC1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CDAEAA76-AC9C-4A31-B547-E8BBF91E95E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CDAEAA76-AC9C-4A31-B547-E8BBF91E95E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CDAEAA76-AC9C-4A31-B547-E8BBF91E95E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CDAEAA76-AC9C-4A31-B547-E8BBF91E95E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B93CB6-6356-4FF4-9C70-C142072DAC1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B93CB6-6356-4FF4-9C70-C142072DAC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B93CB6-6356-4FF4-9C70-C142072DAC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B93CB6-6356-4FF4-9C70-C142072DAC1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

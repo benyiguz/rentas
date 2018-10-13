@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Saludo.Properties
+namespace winRentas.Properties
 {
 
 
